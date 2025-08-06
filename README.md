@@ -1,1 +1,0 @@
-# vigia-recife-proxy-2.0
